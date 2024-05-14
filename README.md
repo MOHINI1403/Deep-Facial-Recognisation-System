@@ -76,6 +76,5 @@ Contributions are welcome! Fork the repository, make your changes, and submit a 
 
 ### Further Assitance :
 Try Reading this Documentation :
-![Link to Documentation](upnote://x-callback-url/openNotebook?notebookId=b5e86e92-46f3-4b9b-b719-c6a26790a4c8)
 
-
+![Link to Documentation](upnote://x-callback-url/openNote?noteId=f1067937-438c-48db-8357-6021a6ce8323)
